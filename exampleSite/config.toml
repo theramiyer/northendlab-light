@@ -1,4 +1,4 @@
-baseURL = "https://millennierd.in"
+baseURL = "https://millennierd.netlify.com"
 disqusShortname = ""
 languageCode = "en-in"
 paginate = "5"
